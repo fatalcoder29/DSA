@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/fatalcoder29/DSA/tree/master/0014-longest-common-prefix) |
+| [0054-spiral-matrix](https://github.com/fatalcoder29/DSA/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/fatalcoder29/DSA/tree/master/0136-single-number) |
 | [0274-h-index](https://github.com/fatalcoder29/DSA/tree/master/0274-h-index) |
 | [0566-reshape-the-matrix](https://github.com/fatalcoder29/DSA/tree/master/0566-reshape-the-matrix) |
@@ -72,10 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/fatalcoder29/DSA/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/fatalcoder29/DSA/tree/master/0566-reshape-the-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/fatalcoder29/DSA/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/fatalcoder29/DSA/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/fatalcoder29/DSA/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
