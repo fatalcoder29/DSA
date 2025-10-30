@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/fatalcoder29/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/fatalcoder29/DSA/tree/master/0013-roman-to-integer) |
+| [0258-add-digits](https://github.com/fatalcoder29/DSA/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -83,5 +84,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/fatalcoder29/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/fatalcoder29/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/fatalcoder29/DSA/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/fatalcoder29/DSA/tree/master/0566-reshape-the-matrix) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/fatalcoder29/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
