@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/fatalcoder29/DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/fatalcoder29/DSA/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/fatalcoder29/DSA/tree/master/0258-add-digits) |
+| [1013-fibonacci-number](https://github.com/fatalcoder29/DSA/tree/master/1013-fibonacci-number) |
 | [1372-check-if-it-is-a-good-array](https://github.com/fatalcoder29/DSA/tree/master/1372-check-if-it-is-a-good-array) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/fatalcoder29/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/fatalcoder29/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/fatalcoder29/DSA/tree/master/0954-maximum-sum-circular-subarray) |
+| [1013-fibonacci-number](https://github.com/fatalcoder29/DSA/tree/master/1013-fibonacci-number) |
 ## Queue
 |  |
 | ------- |
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/fatalcoder29/DSA/tree/master/0069-sqrtx) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/fatalcoder29/DSA/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/fatalcoder29/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
