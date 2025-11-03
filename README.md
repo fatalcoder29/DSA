@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/fatalcoder29/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/fatalcoder29/DSA/tree/master/1791-richest-customer-wealth) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/fatalcoder29/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/fatalcoder29/DSA/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/fatalcoder29/DSA/tree/master/0566-reshape-the-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/fatalcoder29/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/fatalcoder29/DSA/tree/master/1791-richest-customer-wealth) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/fatalcoder29/DSA/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Simulation
 |  |
 | ------- |
