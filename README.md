@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/fatalcoder29/DSA/tree/master/0274-h-index) |
 | [0566-reshape-the-matrix](https://github.com/fatalcoder29/DSA/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/fatalcoder29/DSA/tree/master/0724-find-pivot-index) |
+| [0777-toeplitz-matrix](https://github.com/fatalcoder29/DSA/tree/master/0777-toeplitz-matrix) |
 | [0954-maximum-sum-circular-subarray](https://github.com/fatalcoder29/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1372-check-if-it-is-a-good-array](https://github.com/fatalcoder29/DSA/tree/master/1372-check-if-it-is-a-good-array) |
 | [1603-running-sum-of-1d-array](https://github.com/fatalcoder29/DSA/tree/master/1603-running-sum-of-1d-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/fatalcoder29/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/fatalcoder29/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/fatalcoder29/DSA/tree/master/0566-reshape-the-matrix) |
+| [0777-toeplitz-matrix](https://github.com/fatalcoder29/DSA/tree/master/0777-toeplitz-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/fatalcoder29/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/fatalcoder29/DSA/tree/master/1791-richest-customer-wealth) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/fatalcoder29/DSA/tree/master/2398-check-if-matrix-is-x-matrix) |
