@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/fatalcoder29/DSA/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/fatalcoder29/DSA/tree/master/0777-toeplitz-matrix) |
 | [0954-maximum-sum-circular-subarray](https://github.com/fatalcoder29/DSA/tree/master/0954-maximum-sum-circular-subarray) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/fatalcoder29/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1372-check-if-it-is-a-good-array](https://github.com/fatalcoder29/DSA/tree/master/1372-check-if-it-is-a-good-array) |
 | [1505-create-target-array-in-the-given-order](https://github.com/fatalcoder29/DSA/tree/master/1505-create-target-array-in-the-given-order) |
 | [1603-running-sum-of-1d-array](https://github.com/fatalcoder29/DSA/tree/master/1603-running-sum-of-1d-array) |
