@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/fatalcoder29/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1372-check-if-it-is-a-good-array](https://github.com/fatalcoder29/DSA/tree/master/1372-check-if-it-is-a-good-array) |
 | [1505-create-target-array-in-the-given-order](https://github.com/fatalcoder29/DSA/tree/master/1505-create-target-array-in-the-given-order) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/fatalcoder29/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/fatalcoder29/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/fatalcoder29/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/fatalcoder29/DSA/tree/master/1791-richest-customer-wealth) |
