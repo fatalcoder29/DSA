@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/fatalcoder29/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/fatalcoder29/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/fatalcoder29/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0075-sort-colors](https://github.com/fatalcoder29/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/fatalcoder29/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/fatalcoder29/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/fatalcoder29/DSA/tree/master/0136-single-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/fatalcoder29/DSA/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/fatalcoder29/DSA/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/fatalcoder29/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/fatalcoder29/DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/fatalcoder29/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/fatalcoder29/DSA/tree/master/0202-happy-number) |
 ## Trie
