@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/fatalcoder29/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/fatalcoder29/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/fatalcoder29/DSA/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/fatalcoder29/DSA/tree/master/0392-is-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/fatalcoder29/DSA/tree/master/0551-student-attendance-record-i) |
 ## Two Pointers
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/fatalcoder29/DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/fatalcoder29/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/fatalcoder29/DSA/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/fatalcoder29/DSA/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/fatalcoder29/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/fatalcoder29/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0392-is-subsequence](https://github.com/fatalcoder29/DSA/tree/master/0392-is-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/fatalcoder29/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/fatalcoder29/DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/fatalcoder29/DSA/tree/master/1236-n-th-tribonacci-number) |
