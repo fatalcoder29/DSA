@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/fatalcoder29/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/fatalcoder29/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/fatalcoder29/DSA/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/fatalcoder29/DSA/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/fatalcoder29/DSA/tree/master/0274-h-index) |
 | [0498-diagonal-traverse](https://github.com/fatalcoder29/DSA/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/fatalcoder29/DSA/tree/master/0566-reshape-the-matrix) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/fatalcoder29/DSA/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/fatalcoder29/DSA/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/fatalcoder29/DSA/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/fatalcoder29/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/fatalcoder29/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/fatalcoder29/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0179-largest-number](https://github.com/fatalcoder29/DSA/tree/master/0179-largest-number) |
 | [0383-ransom-note](https://github.com/fatalcoder29/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/fatalcoder29/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/fatalcoder29/DSA/tree/master/0443-string-compression) |
@@ -182,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fatalcoder29/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/fatalcoder29/DSA/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
