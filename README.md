@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/fatalcoder29/DSA/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/fatalcoder29/DSA/tree/master/0274-h-index) |
 | [0498-diagonal-traverse](https://github.com/fatalcoder29/DSA/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/fatalcoder29/DSA/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/fatalcoder29/DSA/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/fatalcoder29/DSA/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/fatalcoder29/DSA/tree/master/0777-toeplitz-matrix) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/fatalcoder29/DSA/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/fatalcoder29/DSA/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/fatalcoder29/DSA/tree/master/0383-ransom-note) |
+| [0500-keyboard-row](https://github.com/fatalcoder29/DSA/tree/master/0500-keyboard-row) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/fatalcoder29/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/fatalcoder29/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/fatalcoder29/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/fatalcoder29/DSA/tree/master/0443-string-compression) |
+| [0500-keyboard-row](https://github.com/fatalcoder29/DSA/tree/master/0500-keyboard-row) |
 | [0551-student-attendance-record-i](https://github.com/fatalcoder29/DSA/tree/master/0551-student-attendance-record-i) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/fatalcoder29/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
