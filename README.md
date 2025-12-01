@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/fatalcoder29/DSA/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/fatalcoder29/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/fatalcoder29/DSA/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/fatalcoder29/DSA/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/fatalcoder29/DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/fatalcoder29/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1372-check-if-it-is-a-good-array](https://github.com/fatalcoder29/DSA/tree/master/1372-check-if-it-is-a-good-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/fatalcoder29/DSA/tree/master/0179-largest-number) |
 | [0383-ransom-note](https://github.com/fatalcoder29/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/fatalcoder29/DSA/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/fatalcoder29/DSA/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/fatalcoder29/DSA/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/fatalcoder29/DSA/tree/master/0500-keyboard-row) |
 | [0551-student-attendance-record-i](https://github.com/fatalcoder29/DSA/tree/master/0551-student-attendance-record-i) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/fatalcoder29/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/fatalcoder29/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/fatalcoder29/DSA/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/fatalcoder29/DSA/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/fatalcoder29/DSA/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/fatalcoder29/DSA/tree/master/0566-reshape-the-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/fatalcoder29/DSA/tree/master/1505-create-target-array-in-the-given-order) |
