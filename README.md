@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/fatalcoder29/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/fatalcoder29/DSA/tree/master/1791-richest-customer-wealth) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/fatalcoder29/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/fatalcoder29/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/fatalcoder29/DSA/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Sorting
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/fatalcoder29/DSA/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/fatalcoder29/DSA/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/fatalcoder29/DSA/tree/master/0274-h-index) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/fatalcoder29/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Counting Sort
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/fatalcoder29/DSA/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/fatalcoder29/DSA/tree/master/0500-keyboard-row) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/fatalcoder29/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/fatalcoder29/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/fatalcoder29/DSA/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/fatalcoder29/DSA/tree/master/0566-reshape-the-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/fatalcoder29/DSA/tree/master/1505-create-target-array-in-the-given-order) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/fatalcoder29/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Number Theory
 |  |
 | ------- |
@@ -201,4 +205,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/fatalcoder29/DSA/tree/master/0179-largest-number) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/fatalcoder29/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/fatalcoder29/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
