@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/fatalcoder29/DSA/tree/master/0014-longest-common-prefix) |
+| [0046-permutations](https://github.com/fatalcoder29/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/fatalcoder29/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/fatalcoder29/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/fatalcoder29/DSA/tree/master/0059-spiral-matrix-ii) |
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/fatalcoder29/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/fatalcoder29/DSA/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
