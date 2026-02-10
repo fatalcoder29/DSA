@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/fatalcoder29/DSA/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/fatalcoder29/DSA/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/fatalcoder29/DSA/tree/master/0566-reshape-the-matrix) |
+| [0704-binary-search](https://github.com/fatalcoder29/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/fatalcoder29/DSA/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/fatalcoder29/DSA/tree/master/0777-toeplitz-matrix) |
 | [0954-maximum-sum-circular-subarray](https://github.com/fatalcoder29/DSA/tree/master/0954-maximum-sum-circular-subarray) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/fatalcoder29/DSA/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/fatalcoder29/DSA/tree/master/0704-binary-search) |
 ## Recursion
 |  |
 | ------- |
