@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/fatalcoder29/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/fatalcoder29/DSA/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/fatalcoder29/DSA/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/fatalcoder29/DSA/tree/master/0704-binary-search) |
 ## Recursion
 |  |
@@ -222,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/fatalcoder29/DSA/tree/master/0046-permutations) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/fatalcoder29/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
