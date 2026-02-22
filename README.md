@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/fatalcoder29/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/fatalcoder29/DSA/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/fatalcoder29/DSA/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/fatalcoder29/DSA/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/fatalcoder29/DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/fatalcoder29/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1372-check-if-it-is-a-good-array](https://github.com/fatalcoder29/DSA/tree/master/1372-check-if-it-is-a-good-array) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/fatalcoder29/DSA/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/fatalcoder29/DSA/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/fatalcoder29/DSA/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/fatalcoder29/DSA/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/fatalcoder29/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/fatalcoder29/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/fatalcoder29/DSA/tree/master/0875-koko-eating-bananas) |
