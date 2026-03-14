@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/fatalcoder29/DSA/tree/master/0777-toeplitz-matrix) |
 | [0875-koko-eating-bananas](https://github.com/fatalcoder29/DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/fatalcoder29/DSA/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/fatalcoder29/DSA/tree/master/0904-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/fatalcoder29/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [0962-maximum-width-ramp](https://github.com/fatalcoder29/DSA/tree/master/0962-maximum-width-ramp) |
 | [1004-max-consecutive-ones-iii](https://github.com/fatalcoder29/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/fatalcoder29/DSA/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/fatalcoder29/DSA/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/fatalcoder29/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0904-fruit-into-baskets](https://github.com/fatalcoder29/DSA/tree/master/0904-fruit-into-baskets) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/fatalcoder29/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/fatalcoder29/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fatalcoder29/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/fatalcoder29/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/fatalcoder29/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
