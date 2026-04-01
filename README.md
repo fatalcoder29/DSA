@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/fatalcoder29/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/fatalcoder29/DSA/tree/master/1791-richest-customer-wealth) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/fatalcoder29/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2187-minimum-time-to-complete-trips](https://github.com/fatalcoder29/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/fatalcoder29/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/fatalcoder29/DSA/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Sorting
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/fatalcoder29/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/fatalcoder29/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/fatalcoder29/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [2187-minimum-time-to-complete-trips](https://github.com/fatalcoder29/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 ## Recursion
 |  |
 | ------- |
