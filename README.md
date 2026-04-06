@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/fatalcoder29/DSA/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/fatalcoder29/DSA/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/fatalcoder29/DSA/tree/master/0912-sort-an-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/fatalcoder29/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/fatalcoder29/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [0962-maximum-width-ramp](https://github.com/fatalcoder29/DSA/tree/master/0962-maximum-width-ramp) |
 | [1004-max-consecutive-ones-iii](https://github.com/fatalcoder29/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/fatalcoder29/DSA/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/fatalcoder29/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/fatalcoder29/DSA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/fatalcoder29/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/fatalcoder29/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/fatalcoder29/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/fatalcoder29/DSA/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/fatalcoder29/DSA/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/fatalcoder29/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/fatalcoder29/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/fatalcoder29/DSA/tree/master/1603-running-sum-of-1d-array) |
 ## Sliding Window
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fatalcoder29/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/fatalcoder29/DSA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/fatalcoder29/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/fatalcoder29/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
