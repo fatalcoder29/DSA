@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/fatalcoder29/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/fatalcoder29/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/fatalcoder29/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/fatalcoder29/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/fatalcoder29/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/fatalcoder29/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/fatalcoder29/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/fatalcoder29/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/fatalcoder29/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/fatalcoder29/DSA/tree/master/0043-multiply-strings) |
+| [0079-word-search](https://github.com/fatalcoder29/DSA/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/fatalcoder29/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/fatalcoder29/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/fatalcoder29/DSA/tree/master/0179-largest-number) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/fatalcoder29/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/fatalcoder29/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/fatalcoder29/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/fatalcoder29/DSA/tree/master/0079-word-search) |
 | [0498-diagonal-traverse](https://github.com/fatalcoder29/DSA/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/fatalcoder29/DSA/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/fatalcoder29/DSA/tree/master/0733-flood-fill) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/fatalcoder29/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/fatalcoder29/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/fatalcoder29/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/fatalcoder29/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/fatalcoder29/DSA/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/fatalcoder29/DSA/tree/master/0494-target-sum) |
 ## Interactive
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/fatalcoder29/DSA/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/fatalcoder29/DSA/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
