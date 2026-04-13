@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/fatalcoder29/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/fatalcoder29/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/fatalcoder29/DSA/tree/master/0179-largest-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/fatalcoder29/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/fatalcoder29/DSA/tree/master/0274-h-index) |
 | [0410-split-array-largest-sum](https://github.com/fatalcoder29/DSA/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/fatalcoder29/DSA/tree/master/0494-target-sum) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/fatalcoder29/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/fatalcoder29/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/fatalcoder29/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/fatalcoder29/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/fatalcoder29/DSA/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/fatalcoder29/DSA/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/fatalcoder29/DSA/tree/master/0410-split-array-largest-sum) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/fatalcoder29/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/fatalcoder29/DSA/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/fatalcoder29/DSA/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/fatalcoder29/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fatalcoder29/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/fatalcoder29/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/fatalcoder29/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/fatalcoder29/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/fatalcoder29/DSA/tree/master/0930-binary-subarrays-with-sum) |
