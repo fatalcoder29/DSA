@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/fatalcoder29/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/fatalcoder29/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/fatalcoder29/DSA/tree/master/1791-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/fatalcoder29/DSA/tree/master/1920-build-array-from-permutation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/fatalcoder29/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/fatalcoder29/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/fatalcoder29/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/fatalcoder29/DSA/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/fatalcoder29/DSA/tree/master/0566-reshape-the-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/fatalcoder29/DSA/tree/master/1505-create-target-array-in-the-given-order) |
+| [1920-build-array-from-permutation](https://github.com/fatalcoder29/DSA/tree/master/1920-build-array-from-permutation) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/fatalcoder29/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Number Theory
 |  |
