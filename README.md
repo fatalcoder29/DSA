@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/fatalcoder29/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/fatalcoder29/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1248-count-number-of-nice-subarrays](https://github.com/fatalcoder29/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/fatalcoder29/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/fatalcoder29/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1372-check-if-it-is-a-good-array](https://github.com/fatalcoder29/DSA/tree/master/1372-check-if-it-is-a-good-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/fatalcoder29/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/fatalcoder29/DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/fatalcoder29/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/fatalcoder29/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/fatalcoder29/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1372-check-if-it-is-a-good-array](https://github.com/fatalcoder29/DSA/tree/master/1372-check-if-it-is-a-good-array) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/fatalcoder29/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/fatalcoder29/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
