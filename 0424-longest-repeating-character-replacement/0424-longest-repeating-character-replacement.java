@@ -1,21 +1,30 @@
 class Solution {
     public int characterReplacement(String s, int k) {
-        int [] freq = new int[26];
-        int left=0;
-        int maxFreq=0;
-        int maxWindow=0;
-        for(int right=0;right<s.length();right++){
-            freq[s.charAt(right)-'A']++;
-            maxFreq=Math.max(maxFreq,freq[s.charAt(right)-'A']);
-            int windowLength=right-left+1;
-            if(windowLength-maxFreq>k){
-                freq[s.charAt(left)-'A']--;
-                left++;
+        int low=0;
+        int maxF=0;
+        int res=0;
+        int [] f = new int [26];
+        for(int high=0;high<s.length();high++){
+            int idx= s.charAt(high)-'A';
+            f[idx]++;
+
+            maxF=Math.max(maxF,f[idx]);
+            int windowLength=high-low+1;
+            int replacement = windowLength-maxF;
+
+            while(replacement>k){
+                int leftidx=s.charAt(low)-'A';
+                f[leftidx]--;
+                low++;
+
+                windowLength=high-low+1;
+                replacement=windowLength-maxF;
+
+                
             }
-            windowLength=right-left+1;
-            maxWindow=Math.max(maxWindow,windowLength);
+            res=Math.max(res,high-low+1);
         }
-        return maxWindow;
+        return res;
         
     }
 }
