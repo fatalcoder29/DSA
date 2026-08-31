@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/fatalcoder29/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/fatalcoder29/DSA/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/fatalcoder29/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0876-middle-of-the-linked-list](https://github.com/fatalcoder29/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/fatalcoder29/DSA/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/fatalcoder29/DSA/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/fatalcoder29/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/fatalcoder29/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/fatalcoder29/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/fatalcoder29/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/fatalcoder29/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Pigeonhole Principle
 |  |
 | ------- |
