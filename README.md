@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/fatalcoder29/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/fatalcoder29/DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/fatalcoder29/DSA/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/fatalcoder29/DSA/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/fatalcoder29/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/fatalcoder29/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/fatalcoder29/DSA/tree/master/0075-sort-colors) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/fatalcoder29/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/fatalcoder29/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/fatalcoder29/DSA/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/fatalcoder29/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/fatalcoder29/DSA/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/fatalcoder29/DSA/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/fatalcoder29/DSA/tree/master/0274-h-index) |
@@ -432,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/fatalcoder29/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/fatalcoder29/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/fatalcoder29/DSA/tree/master/0287-find-the-duplicate-number) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/fatalcoder29/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
