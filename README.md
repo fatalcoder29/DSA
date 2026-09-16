@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/fatalcoder29/DSA/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/fatalcoder29/DSA/tree/master/0500-keyboard-row) |
 | [0551-student-attendance-record-i](https://github.com/fatalcoder29/DSA/tree/master/0551-student-attendance-record-i) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/fatalcoder29/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/fatalcoder29/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/fatalcoder29/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/fatalcoder29/DSA/tree/master/1433-check-if-a-string-can-break-another-string) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/fatalcoder29/DSA/tree/master/0020-valid-parentheses) |
 | [0962-maximum-width-ramp](https://github.com/fatalcoder29/DSA/tree/master/0962-maximum-width-ramp) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/fatalcoder29/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
