@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/fatalcoder29/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/fatalcoder29/DSA/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/fatalcoder29/DSA/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/fatalcoder29/DSA/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/fatalcoder29/DSA/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/fatalcoder29/DSA/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/fatalcoder29/DSA/tree/master/0525-contiguous-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/fatalcoder29/DSA/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/fatalcoder29/DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/fatalcoder29/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/fatalcoder29/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/fatalcoder29/DSA/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/fatalcoder29/DSA/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/fatalcoder29/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -391,11 +393,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/fatalcoder29/DSA/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/fatalcoder29/DSA/tree/master/0496-next-greater-element-i) |
 | [0962-maximum-width-ramp](https://github.com/fatalcoder29/DSA/tree/master/0962-maximum-width-ramp) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/fatalcoder29/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/fatalcoder29/DSA/tree/master/0496-next-greater-element-i) |
 | [0962-maximum-width-ramp](https://github.com/fatalcoder29/DSA/tree/master/0962-maximum-width-ramp) |
 ## Merge Sort
 |  |
