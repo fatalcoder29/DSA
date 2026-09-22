@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/fatalcoder29/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/fatalcoder29/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/fatalcoder29/DSA/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/fatalcoder29/DSA/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/fatalcoder29/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0777-toeplitz-matrix](https://github.com/fatalcoder29/DSA/tree/master/0777-toeplitz-matrix) |
 | [0875-koko-eating-bananas](https://github.com/fatalcoder29/DSA/tree/master/0875-koko-eating-bananas) |
@@ -394,12 +395,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/fatalcoder29/DSA/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/fatalcoder29/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/fatalcoder29/DSA/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/fatalcoder29/DSA/tree/master/0962-maximum-width-ramp) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/fatalcoder29/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/fatalcoder29/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/fatalcoder29/DSA/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/fatalcoder29/DSA/tree/master/0962-maximum-width-ramp) |
 ## Merge Sort
 |  |
