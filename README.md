@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/fatalcoder29/DSA/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/fatalcoder29/DSA/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/fatalcoder29/DSA/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/fatalcoder29/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/fatalcoder29/DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/fatalcoder29/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/fatalcoder29/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/fatalcoder29/DSA/tree/master/0020-valid-parentheses) |
+| [0445-add-two-numbers-ii](https://github.com/fatalcoder29/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/fatalcoder29/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/fatalcoder29/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/fatalcoder29/DSA/tree/master/0739-daily-temperatures) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/fatalcoder29/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/fatalcoder29/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/fatalcoder29/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/fatalcoder29/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/fatalcoder29/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Pigeonhole Principle
 |  |
