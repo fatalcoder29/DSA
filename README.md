@@ -446,10 +446,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/fatalcoder29/DSA/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/fatalcoder29/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0733-flood-fill](https://github.com/fatalcoder29/DSA/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/fatalcoder29/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0733-flood-fill](https://github.com/fatalcoder29/DSA/tree/master/0733-flood-fill) |
 ## Linked List
 |  |
@@ -488,4 +490,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/fatalcoder29/DSA/tree/master/0022-generate-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/fatalcoder29/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/fatalcoder29/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
