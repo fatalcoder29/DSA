@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/fatalcoder29/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/fatalcoder29/DSA/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/fatalcoder29/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/fatalcoder29/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/fatalcoder29/DSA/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/fatalcoder29/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/fatalcoder29/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/fatalcoder29/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/fatalcoder29/DSA/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/fatalcoder29/DSA/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/fatalcoder29/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/fatalcoder29/DSA/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/fatalcoder29/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/fatalcoder29/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/fatalcoder29/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/fatalcoder29/DSA/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/fatalcoder29/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/fatalcoder29/DSA/tree/master/0912-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/fatalcoder29/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/fatalcoder29/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/fatalcoder29/DSA/tree/master/0912-sort-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/fatalcoder29/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Backtracking
@@ -515,4 +519,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/fatalcoder29/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/fatalcoder29/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/fatalcoder29/DSA/tree/master/0226-invert-binary-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/fatalcoder29/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
